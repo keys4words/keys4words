@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--
-**keys4words/keys4words** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**keys4words/keys4words** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My projects:
+### My projects:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ My projects:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
