@@ -3,7 +3,9 @@
 
 ### My skills:
 
-- 🔭 Vagrant
-- 🌱 Ansilbe
+- 🔭 Golang
+- 🌱 Ansible
 - 👯 Gitlab
 - 🤔 Python
+- 🔭 Docker
+- 🌱 Terraform
