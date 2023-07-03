@@ -9,3 +9,5 @@
 - 🤔 Python
 - 🔭 Docker
 - 🌱 Terraform
+
+📫 Connect with me: [mail](mailto:keys4words@gmail.com?subject=[GitHub]), [linkedin](https://www.linkedin.com/in/maxim-zharnikov-56b600240)
